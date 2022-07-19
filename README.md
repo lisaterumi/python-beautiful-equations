@@ -1,1 +1,3 @@
-# python-beautiful-equations
+# Python Beautiful Equations
+
+Desenhando com equações 💖
